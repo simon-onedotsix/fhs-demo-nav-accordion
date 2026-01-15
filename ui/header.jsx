@@ -218,7 +218,7 @@ export const Header = ({ site, handle = 'FHS' }) => {
                     <ul className="navLinks">
                         {
                             site != 'world' &&
-                            <li><a className="button inverse" href="/sa">FHS World</a></li>
+                            <li><a className="button inverse" href="/world">FHS World</a></li>
                         }
                         {
                             site != 'sa' &&

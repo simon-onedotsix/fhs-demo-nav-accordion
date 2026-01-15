@@ -1,3 +1,3 @@
 ## FHS ui
 
-(https://szhsin.github.io/react-accordion/docs)
+(https://szhsin.github.io/react-accordion)
